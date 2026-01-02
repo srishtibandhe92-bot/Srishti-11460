@@ -1,3 +1,5 @@
+//Srishti Bandhe
+//11460 BCA 1B
 #include <stdio.h>
 
 int main()
@@ -88,3 +90,4 @@ int main()
 
     return 0;
 }
+
